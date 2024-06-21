@@ -1,0 +1,5 @@
+PAR = 10
+rain = 15
+SRAD = 10
+TMIN = 5
+TMAX = 55
